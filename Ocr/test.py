@@ -20,3 +20,7 @@ for i,image in enumerate(images):
     pages.append(text)  
 with open("new.txt","w") as f:
     f.write("\n".join(pages))
+
+
+
+
